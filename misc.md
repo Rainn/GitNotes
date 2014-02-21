@@ -10,12 +10,12 @@
 1. 热爱探索和钻研，相信研究的目的是为了创造改变人们生活的产品或服务
 2. 逻辑严谨，对技术敏感，有好奇心和责任心，工作主动性好，沟通能力强
 3. 有独立钻石新技术的能力，有较强的学习能力，团队协作能力
-3. 能够熟悉使用英语交流、文档撰写
+4. 能够熟悉使用英语交流、文档撰写
 
 ##可选技术要求
 1. 了解Hadoop平台,熟悉GFS/Hadoop、hive、hbase等开源项目
 2. 熟悉Java编程及相应的Web Service框架
-1. 独立开发过基于Android或iOS的移动Native或Web应用
-3. 掌握专业的html5/css/js, Ajax, jQuery等前端知识与应用
-4. 具备数据库系统基本理论知识，了解Oralce、Mysql等RDBMS的管理和应用，熟悉SQL语言
-5. 了解日语
+3. 独立开发过基于Android或iOS的移动Native或Web应用
+4. 掌握专业的html5/css/js, Ajax, jQuery等前端知识与应用
+5. 具备数据库系统基本理论知识，了解Oralce、Mysql等RDBMS的管理和应用，熟悉SQL语言
+6. 了解日语
